@@ -22,4 +22,5 @@ https://app.codility.com/demo/results/trainingU6PWU4-PJP/ -- also need more work
 
 https://app.codility.com/demo/results/trainingTPKEZW-UZP/ -- also
 
-https://app.codility.com/demo/results/training4747CF-BNK/
+https://app.codility.com/demo/results/training4747CF-BNK/ -- 1st trail
+https://app.codility.com/demo/results/trainingGPHXMH-ZTE/ -- 2nd trail (100%) :)
