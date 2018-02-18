@@ -27,3 +27,5 @@ https://app.codility.com/demo/results/trainingGPHXMH-ZTE/ -- 2nd trail (100%) :)
 
 
 https://app.codility.com/demo/results/trainingFU4USD-8GY/
+
+https://app.codility.com/demo/results/training4HMRBR-6ZE/ -- need more work
